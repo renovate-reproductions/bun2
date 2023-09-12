@@ -1,0 +1,15 @@
+{
+  "name": "bun1",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "4.0.0",
+    "left-pad": "1.0.0"
+  }
+}
